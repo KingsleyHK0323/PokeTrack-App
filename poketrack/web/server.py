@@ -45,7 +45,7 @@ def create_app(service: PokeTrackService) -> Flask:
             "regions_all": REGIONS,
             "selected_regions": service.config.get("regions", ["Global"]),
             "update": service.latest_update(),
-            "github_profile_url": "https://github.com/SpaceSquare640",
+            "github_profile_url": "https://github.com/KingsleyHK0323",
             "discord_url": "https://discord.gg/aaUQVJeCgC",
         }
 
