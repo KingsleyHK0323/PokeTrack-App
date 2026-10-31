@@ -211,7 +211,7 @@ class PokeTrackApp(ctk.CTk):
             links, text=" " + self.t("footer.github"), image=self._footer_imgs.get("github"),
             width=110, height=30, corner_radius=6, font=self.font_small,
             fg_color=C["surface_alt"], hover_color=C["border"], text_color=C["text"],
-            command=lambda: webbrowser.open("https://github.com/SpaceSquare640"),
+            command=lambda: webbrowser.open("https://github.com/KingsleyHK0323"),
         ).grid(row=0, column=0, padx=(0, 8))
         ctk.CTkButton(
             links, text=" " + self.t("footer.discord"), image=self._footer_imgs.get("discord"),
