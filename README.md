@@ -1,7 +1,7 @@
 # PokéTrack
 
-[![CI](https://github.com/SpaceSquare640/PokeTrack-App/actions/workflows/ci.yml/badge.svg)](https://github.com/SpaceSquare640/PokeTrack-App/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/SpaceSquare640/PokeTrack-App)](https://github.com/SpaceSquare640/PokeTrack-App/releases)
+[![CI](https://github.com/KingsleyHK0323/PokeTrack-App/actions/workflows/ci.yml/badge.svg)](https://github.com/KingsleyHK0323/PokeTrack-App/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/KingsleyHK0323/PokeTrack-App)](https://github.com/KingsleyHK0323/PokeTrack-App/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A community-activity monitor for **Pokémon GO**. It fetches upcoming and live
